@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chicken-and-eggs-game/static/css/main.684c59ae.chunk.css",
+    "main.js": "/chicken-and-eggs-game/static/js/main.1f4505fc.chunk.js",
+    "main.js.map": "/chicken-and-eggs-game/static/js/main.1f4505fc.chunk.js.map",
+    "runtime-main.js": "/chicken-and-eggs-game/static/js/runtime-main.c5c00074.js",
+    "runtime-main.js.map": "/chicken-and-eggs-game/static/js/runtime-main.c5c00074.js.map",
+    "static/js/2.db0198f7.chunk.js": "/chicken-and-eggs-game/static/js/2.db0198f7.chunk.js",
+    "static/js/2.db0198f7.chunk.js.map": "/chicken-and-eggs-game/static/js/2.db0198f7.chunk.js.map",
+    "static/js/3.88aca262.chunk.js": "/chicken-and-eggs-game/static/js/3.88aca262.chunk.js",
+    "static/js/3.88aca262.chunk.js.map": "/chicken-and-eggs-game/static/js/3.88aca262.chunk.js.map",
+    "index.html": "/chicken-and-eggs-game/index.html",
+    "static/css/main.684c59ae.chunk.css.map": "/chicken-and-eggs-game/static/css/main.684c59ae.chunk.css.map",
+    "static/js/2.db0198f7.chunk.js.LICENSE.txt": "/chicken-and-eggs-game/static/js/2.db0198f7.chunk.js.LICENSE.txt",
+    "static/media/basket.22b7bed8.png": "/chicken-and-eggs-game/static/media/basket.22b7bed8.png",
+    "static/media/egg.8dcd5c27.png": "/chicken-and-eggs-game/static/media/egg.8dcd5c27.png",
+    "static/media/hen.3bc77f8d.jpg": "/chicken-and-eggs-game/static/media/hen.3bc77f8d.jpg",
+    "static/media/logo.6ce24c58.svg": "/chicken-and-eggs-game/static/media/logo.6ce24c58.svg",
+    "static/media/soundChicken.4c3fe078.mp3": "/chicken-and-eggs-game/static/media/soundChicken.4c3fe078.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c00074.js",
+    "static/js/2.db0198f7.chunk.js",
+    "static/css/main.684c59ae.chunk.css",
+    "static/js/main.1f4505fc.chunk.js"
+  ]
+}
